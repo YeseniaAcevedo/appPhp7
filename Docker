@@ -1,5 +1,1 @@
 
-git checkout -b contenedor
-git add .
-git commit -m 'Contenedor python'
-git push
